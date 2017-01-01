@@ -1,2 +1,10 @@
-# autonomous_mine_sweeper
-This was my trial to create an autonomous mine_sweeper to join the international mine sweeper competition
+# mybot_ws
+URDF model for Gazebo integrated with ROS
+
+This repository has several branches. Please checkout the appropriate branch for your needs. <br>
+1) <strong>base</strong> - create simple URDF model <br>
+2) <strong>base_sensors</strong> - add sensors to robot <br>
+3) <strong>navigation</strong> - enable autonomous navigation
+
+For more information on running the code:  <br>
+http://www.moorerobots.com/2016/09/27/tutorial-getting-started-with-ros-simulations/
